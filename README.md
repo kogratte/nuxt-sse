@@ -1,3 +1,14 @@
+# SSE using nuxt
+
+You'll find here a sample of SSE using nuxt.
+
+Many thanks to [@max06](https://github.com/max06) for the incredible tips (working out of the box).
+
+## Missing
+
+We need to add typing, if possible.
+
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
